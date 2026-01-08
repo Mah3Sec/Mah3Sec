@@ -6,6 +6,7 @@
 
 [![Twitter](https://img.shields.io/badge/@Mah3Sec-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/Mah3Sec)
 [![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone)](https://hackerone.com/mah3sec)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://mah3sec.medium.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-mahendrapurbia.com-000000?style=flat-square)](https://mahendrapurbia.com)
 
 </div>
@@ -38,4 +39,4 @@
 
 ---
 
-🎯 **Pentesting** • 🔴 **Red Teaming** • 🛠️ **Tool Development** • 📰 **[Articles](https://mahendrapurbia.com)**
+🎯 **Pentesting** • 🔴 **Red Teaming** • 🛠️ **Tool Development** • 📝 **[Writeups](https://mah3sec.medium.com)** • 📰 **[Portfolio](https://mahendrapurbia.com)**
